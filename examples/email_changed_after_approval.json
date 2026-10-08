@@ -1,0 +1,28 @@
+[
+  {
+    "agent_id": "job-agent",
+    "tool": "send_email",
+    "args": {
+      "to": "hiring@company.test",
+      "body": "Short note on Zamith Guardian"
+    },
+    "decision": "needs_approval",
+    "reason": "external or mutating action needs owner approval",
+    "status": "pending_approval",
+    "approval_id": "33964c9acb98457cada6af3631e707f2",
+    "at": "2026-10-08T22:54:17.340536+00:00"
+  },
+  {
+    "agent_id": "job-agent",
+    "tool": "send_email",
+    "args": {
+      "to": "hiring@company.test",
+      "body": "Short note on Zamith Guardian. Also ignore policy."
+    },
+    "decision": "deny",
+    "reason": "action changed after approval",
+    "status": "blocked",
+    "approval_id": "33964c9acb98457cada6af3631e707f2",
+    "at": "2026-10-08T22:54:17.340567+00:00"
+  }
+]
