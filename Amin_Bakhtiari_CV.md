@@ -45,9 +45,11 @@ AI workspace.
 
 ## Professional experience
 
-### Abed Mahfouz | AI and Digital Strategy | international luxury fashion
+### Abed Mahfouz | AI and Digital Strategy | international luxury fashion | 2022-2024
 
-Ran AI-assisted creative workflows for fashion imagery, video and campaign content, including Meta advertising and A/B tests.
+Two years with Abed Mahfouz Haute Couture House. Planned, ran and optimized digital advertising campaigns: campaign structure, audience segmentation, A/B testing and performance analysis. Used machine learning and deep learning ideas for targeting, forecasting and campaign decisions. Also supported AI-assisted fashion imagery, video and Meta advertising.
+
+Recommendation: Abed Mahfouz, Founder and Chairman, 20 April 2026. Abed@abedmahfouz.com
 
 ## Training
 
